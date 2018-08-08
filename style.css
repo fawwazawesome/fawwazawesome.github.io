@@ -1,0 +1,50 @@
+ body {
+ 	font-family: Verdana;
+ 	line-height: 0.7cm;
+ 	background :url(https://wallpaper-gallery.net/images/galaxy/galaxy-2.png);
+ 	background-size:auto;
+	font-size: 18px;
+
+
+ }
+
+ div {
+ 	border:5px dotted DarkBlue;
+ 	box-sizing: border-box;
+ 	padding: 10px;
+ 	margin-bottom:10px;
+ 	margin:auto;
+
+ }
+
+h1 {
+
+	color: Gold;
+	
+}
+
+h2 {
+	color:Black;
+}
+ h3 {
+ 	color:SlateBlue;
+ }
+
+header {
+	background-color: IndianRed;
+	color:white;
+	border:5px solid purple;
+	text-align:center;
+	padding:15px;
+	margin:auto;
+	width: 1000px;
+}
+section {
+	background-color: Wheat;
+	color:brown;
+	border: 5px solid DarkBlue;
+	text-align:center;
+	padding: 15px;
+	margin:auto;
+	width: 1000px;
+}
