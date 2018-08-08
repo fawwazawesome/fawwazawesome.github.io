@@ -1,3 +1,13 @@
+ header {
+	color: black;
+	border:5px solid purple;
+	text-align:center;
+	padding:15px;
+	margin:auto;
+	width: 1000px;
+	background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/22/565796df302de21.jpg);
+}
+
  body {
  	font-family: Verdana;
  	line-height: 0.7cm;
@@ -8,39 +18,8 @@
 
  }
 
- div {
- 	border:5px dotted DarkBlue;
- 	box-sizing: border-box;
- 	padding: 10px;
- 	margin-bottom:10px;
- 	margin:auto;
-
- }
-
-h1 {
-
-	color: Gold;
-	
-}
-
-h2 {
-	color:Black;
-}
- h3 {
- 	color:SlateBlue;
- }
-
-header {
-	background-color: IndianRed;
-	color:white;
-	border:5px solid purple;
-	text-align:center;
-	padding:15px;
-	margin:auto;
-	width: 1000px;
-}
 section {
-	background-color: Wheat;
+	background-color: LavenderBlush  ;
 	color:brown;
 	border: 5px solid DarkBlue;
 	text-align:center;
@@ -48,3 +27,23 @@ section {
 	margin:auto;
 	width: 1000px;
 }
+
+footer {
+	
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SkkYHwtRg_5iqUhYkYOHsXLfd0cr9yWM1DKi_HwdSvDDkeNo);
+	color:white;
+	border: 5px solid White;
+	padding: 15px;
+	margin:auto;
+	width: 1000px;
+	
+	}
+
+#container {
+	
+	border: 5px dashed Gold;
+	text-align:center;
+	padding: 0px;
+	margin:auto;
+	}
+
