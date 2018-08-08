@@ -1,4 +1,4 @@
- header {
+header {
 	color: black;
 	border:5px solid purple;
 	text-align:center;
@@ -20,7 +20,6 @@
 
 section {
 	background-color: LavenderBlush  ;
-	color:brown;
 	border: 5px solid DarkBlue;
 	text-align:center;
 	padding: 15px;
@@ -29,7 +28,7 @@ section {
 }
 
 footer {
-	
+
 	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SkkYHwtRg_5iqUhYkYOHsXLfd0cr9yWM1DKi_HwdSvDDkeNo);
 	color:white;
 	border: 5px solid White;
