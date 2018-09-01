@@ -1,0 +1,41 @@
+header {
+	border:5px solid purple;
+		color: black;
+text-align:center;
+	padding:15px;
+	margin:auto;
+	width: 1200px;
+	background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/22/565796df302de21.jpg);
+}
+
+ body {
+ 	font-family: Verdana;
+ 	line-height: 0.7cm;
+ 	background :url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S15GBCm/colorful-balloons-flying-in-slow-motion-festive-party-video-background-lots-of-colorful-balloons-rise-up-over-blue-background-full-hd-and-4k_r6eqnfmy__F0006.png);
+ 	background-size:auto;
+	font-size: 18px;
+
+
+ }
+
+section {
+	background-color: LavenderBlush  ;
+	border: 5px solid DarkBlue;
+	text-align:center;
+	padding: 15px;
+	margin:auto;
+	width: 1200px;
+	
+}
+
+footer {
+
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SkkYHwtRg_5iqUhYkYOHsXLfd0cr9yWM1DKi_HwdSvDDkeNo);
+	color:white;
+	padding: 15px;
+	margin:auto;
+	width: 1200px;
+	
+	}
+
+
